@@ -15,7 +15,6 @@ root.render(
     <>
         {/* That's how we can easily reuse the components we created. */}
         <App />
-        <App />
-        <App />
+        
     </>
 );
