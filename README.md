@@ -3,7 +3,7 @@
 ### we are going to cover all these topics in this tutorial in detail. 
 
 
-### every topic is explained in one branch. 
+### Every topic is explained in one branch. 
 
 <ol>
                 <li>
