@@ -9,16 +9,6 @@ import Second from './components/second'; // Class Component.
 
 
 const App = () => {
-<<<<<<< Updated upstream
- 
-    return (
-        // everything written inside return is not html but it's JSX 
-        <div>
-            <h3>Hello World</h3>
-        </div>
-    );
-=======
-    
 
     function handleClick(){
         window.alert("Clicked");
@@ -37,7 +27,7 @@ const App = () => {
             </div>
         </>
     )
->>>>>>> Stashed changes
+
 
 }
 
