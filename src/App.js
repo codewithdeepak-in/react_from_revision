@@ -1,18 +1,4 @@
-<<<<<<< Updated upstream
-// Here i created simple arrow function in javascipt 
 
-
-const App = () => {
- 
-    return (
-        // everything written inside return is not html but it's JSX 
-        <div>
-            <h3>Hello World</h3>
-        </div>
-    );
-
-}
-=======
 const App = () => {
 
     // internal CSS
@@ -32,7 +18,5 @@ const App = () => {
         </div>
     )
 }
-
->>>>>>> Stashed changes
 
 export default App;
