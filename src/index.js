@@ -12,10 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // createRoot is a method used to created root for rendering the components
 
 root.render(
-    <>
-        {/* That's how we can easily reuse the components we created. */}
-        <App />
-        <App />
-        <App />
-    </>
-);
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+)
