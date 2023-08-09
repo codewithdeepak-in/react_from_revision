@@ -66,7 +66,6 @@
                     <ul>
                         <li>Inline styles in JSX.</li>
                         <li>Using CSS classes and modules.</li>
-                        <li>CSS-in-JS libraries like styled-components.</li>
                     </ul>
                 </li>
                 <li>
