@@ -70,11 +70,7 @@
                     </ul>
                 </li>
                 <li>
-                    Forms and Controlled Components:
-                    <ul>
-                        <li>Building forms and handling user input.</li>
-                        <li>Controlled vs. uncontrolled components.</li>
-                        <li>Form validation and error handling.</li>
+         ewq                                    
                     </ul>
                 </li>
                 <li>
