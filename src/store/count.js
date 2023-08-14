@@ -6,8 +6,18 @@ const CountSlice = createSlice({
         count: 0
     },
     reducers: {
-
+        increment: (state) => {
+            state.count += 1;
+        }, 
+        decrement: (state) => {
+            if(state.count === 0){
+                state.count = 0;
+            }else{
+                state.count -= 1;
+            }
+        }
     }
-})
+});
 
-export default CountSlice.reducer;
+export const { increment, decrement } = CountSlice.actions; // Export action creators
+export default CountSlice.reducer; // Export the reducer function
